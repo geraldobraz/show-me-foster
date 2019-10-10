@@ -5,5 +5,6 @@
 
 export const environment = {
   production: false,
-  tmdb_api_key: "OI"
+  tmdb_api_key: "https://api.themoviedb.org/3/",
+  base_url_tmdb: ""
 };
